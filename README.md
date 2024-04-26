@@ -1,0 +1,13 @@
+**PROJECT INITIATION TASK**
+
+| QUESTION                                            | Answer                                                                                                    | Task that will aid to achieve the aim                                         |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| What are the goals of this project?               | Enhance emergency response efficiency and patient care                                                    | Implement a streamlined triage system                                          |
+| Why now?                                           | Increasing demand for emergency medical services due to population growth and urbanization                 | Conduct an assessment of current emergency response protocols and identify areas for improvement |
+| What business benefits will this give us?         | Improve hospital reputation and patient satisfaction                                                      | Implement a user-friendly interface for patients and integrate analytics to track response times |
+| What is your project name?                        | SwiftCare Emergency Services                                                                              |                                                                                 |
+| How long do you estimate to finish this project?  | 12 months                                                                                                 | Establish task forces with clear objectives and timelines for each improvement area |
+| What problems might you face while working on your project? | Limited resources and outdated equipment                                                             | Conduct an inventory of existing resources and prioritize equipment upgrades   |
+| Are you working alone or as a team?              | Cross-functional team comprising medical staff, administrators, and IT specialists                        | Establish clear communication channels and hold regular progress meetings      |
+| Write your problem statement.                     | Inefficient emergency response leading to delayed patient care                                             | Done                                                                            |
+| Write your solution.                              | Implement a comprehensive emergency response training program for medical staff                             | Done                                                                            |
